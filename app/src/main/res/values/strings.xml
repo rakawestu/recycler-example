@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recycler Example</string>
+    <string name="grid_mode">Grid</string>
+    <string name="linear_mode">Linear</string>
+    <string name="sample_lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque laoreet tortor lorem, egestas volutpat magna cursus vitae. Curabitur facilisis pulvinar porttitor. Donec non leo ut risus ultricies blandit. Ut quis odio laoreet, consectetur neque at, congue nulla. Ut tincidunt dapibus mollis. Fusce lectus odio, iaculis sit amet dapibus in, aliquet a ligula. Cras ullamcorper sapien vitae dapibus placerat. Vivamus eleifend felis ut placerat mollis. Phasellus eu tincidunt arcu. Praesent vitae vestibulum ex. Etiam accumsan dolor enim, quis aliquam mi viverra eu. Proin pellentesque quis risus nec elementum. Aliquam vitae magna libero. Mauris consequat dui velit, sit amet rhoncus metus euismod ut.\n
+        Nam tincidunt, odio vel aliquet mattis, purus metus tincidunt dolor, eget ultricies sem dolor sit amet ex. Phasellus semper orci ut arcu ultricies pharetra. Aenean bibendum nibh non vestibulum rutrum. Nunc fringilla purus et velit egestas, vitae feugiat metus cursus. Vivamus aliquam urna lacus, id pretium nunc suscipit quis. Mauris interdum urna nisl, nec rutrum lectus mollis eget. Etiam porttitor, justo in suscipit facilisis, odio tellus congue arcu, quis pulvinar arcu sem quis ligula. Integer sodales dolor vel magna iaculis, non viverra diam elementum.
+    </string>
+</resources>
