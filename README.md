@@ -8,4 +8,4 @@ This project is a showcase about the basic usage of recycler view.
 
 ## Screen Record
 
-![Recycler Example](showcases/recycler-example.gif)
+![Recycler Example](https://raw.githubusercontent.com/rakawestu/recycler-example/master/showcases/Recycler-Example.gif)
